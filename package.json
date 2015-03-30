@@ -1,0 +1,14 @@
+{
+  "name": "v8-flags-object-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "dependencies": {
+    "v8-flags": "^0.1.2"
+  }
+}
